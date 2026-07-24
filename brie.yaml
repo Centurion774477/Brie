@@ -1,0 +1,41 @@
+keys:
+  first: {
+    ripened: false,
+    script: ""
+  }
+  second: {
+    ripened: false,
+    script: ""
+  }
+  third: {
+    ripened: false,
+    script: ""
+  }
+  fourth: {
+    ripened: false,
+    script: ""
+  }
+  fifth: {
+    ripened: false,
+    script: ""
+  }
+  sixth: {
+    ripened: false,
+    script: ""
+  }
+  seventh: {
+    ripened: false,
+    script: ""
+  }
+  eighth: {
+    ripened: false,
+    script: ""
+  }
+  ninth: {
+    ripened: false,
+    script: ""
+  }
+  tenth: {
+    ripened: false,
+    script: ""
+  }
